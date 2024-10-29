@@ -13,6 +13,6 @@ section{
     background-color: maroon;
     margin: 60px;
     display: flex;
+    padding-top:70;
+    padding-bottom:70;
 }
-padding-top:70;
-padding-bottom:70;
