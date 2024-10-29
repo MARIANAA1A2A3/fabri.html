@@ -1,16 +1,18 @@
 <body{
  
-    background-color: black;
-    color:rgb(228, 0, 0);
+    background-color:#964BFA;
+    color:#B94BFA;
+    
 }
 header{
     margin: 50px;
-    background-color: aquamarine;
+    background-color: #0C41FA;
+    
     Text-size-adjust: 80px;
     justify-content: center;
 }
 section{
-    background-color: maroon;
+    background-color:#2f016b;
     margin: 60px;
     display: flex;
     padding-top:70;
