@@ -11,3 +11,8 @@ header{
     Text-size-adjust: 80px;
     justify-content: center;
 }
+section{
+    background-color: maroon;
+    margin: 60px;
+    display: flex;
+}
