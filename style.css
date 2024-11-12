@@ -4,6 +4,22 @@
     color:#B94BFA;
     
 }
+section{
+    background-color: black;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    display: flex;
+    justify-content: center;
+
+}
+.primeira chamada{
+    margin-right: 5%;
+}
+.mais videos de salgados{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
 header{
     margin: 50px;
     background-color: #0C41FA;
@@ -13,10 +29,4 @@ header{
     border: solid 3px rgb(rgb(94, 255, 0), green, rgb(251, 255, 0));
     padding: 25px;
 }
-section{
-    background-color:#2f016b;
-    margin: 60px;
-    display: flex;
-    padding-top:70;
-    padding-bottom:70;
-}
+
